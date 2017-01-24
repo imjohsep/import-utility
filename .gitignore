@@ -1,0 +1,13 @@
+node_modules/
+
+*~
+*.orig
+.DS_Store
+._.DS_Store
+
+typings/*
+typings.json
+
+lib/*
+node_modules/*
+npm-debug.log

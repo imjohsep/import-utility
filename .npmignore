@@ -1,0 +1,11 @@
+.vscode
+.nyc_output
+
+*~
+*.orig
+.DS_Store
+._.DS_Store
+
+npm-debug.log
+typings
+typings.json

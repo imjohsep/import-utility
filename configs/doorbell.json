@@ -1,0 +1,6 @@
+{
+    "serialNumber": {"type": "String", "required": true, "validate": "^(D1[0-9A-Z]{8})$"},
+    "skuNumber": {"type": "String", "required": true, "validate": "^(AUG-AB[0-9]{2})|(02-01-001)$"},
+    "augfirmware": {"type": "String", "required": true, "validate": "semver"},
+    "batterySerialNumber": {"type": "String", "required": true, "validate": "^([0-9A-Z]{10})$"}
+}
