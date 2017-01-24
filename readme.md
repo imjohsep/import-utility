@@ -1,4 +1,4 @@
-# August Home Manufacturing ImportUtility
+# Manufacturing ImportUtility
 
 ## Setup
 
